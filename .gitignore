@@ -1,1 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
 
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Live user delivery data
+delivery_queue.csv
