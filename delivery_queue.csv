@@ -1,0 +1,10 @@
+id,customer_name,pickup_address,address,notes,weight
+JOB-001,Ravi Kumar,"12 MG Road, Chennai, TN 600001","9 Anna Salai, Chennai, TN",Handle with care,2 pallets
+JOB-002,Priya Singh,"45 Brigade Street, Bengaluru, KA","100 Park Avenue, Mumbai, MH",Call before delivery,1 pallet
+JOB-003,Arjun Logistics,"12 MG Road, Chennai, TN 600001","45 Brigade Street, Bengaluru, KA",,500 kg
+JOB-004,Mystery Warehouse,"12 MG Road, Chennai, TN 600001",Asdkjfh Not A Real Place 000,Address needs verification,3 pallets
+JOB-005,Missing Pickup Ltd,,"9 Anna Salai, Chennai, TN",No pickup address provided,200 kg
+JOB-006,Mumbai Retail,"100 Park Avenue, Mumbai, MH","12 MG Road, Chennai, TN 600001",Priority delivery,750 kg
+JOB-007,Kavitha Enterprises,"12 MG Road, Chennai, TN 600001","45 Brigade Street, Bengaluru, KA",Fragile glassware - handle with extreme care,350 kg
+JOB-008,Southern Distribution Hub,"100 Park Avenue, Mumbai, MH","9 Anna Salai, Chennai, TN",Express morning dispatch,1200 kg
+JOB-009,Likith KS,Radiance Madarain apartment thoraipakkam,Santhosh House,make sure to give me offer :),70kg
